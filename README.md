@@ -18,8 +18,8 @@ At this stage, we need to the Assessment standards of IELTS writing. Just go to 
 This criterion assesses how well you answer the question, whether you address all aspects of the task, and if the information is accurately presented.
 
 **Key points:**
-- Address all aspects of the task
-- The information is accurately presented
+- Completeness: Address all aspects of the task
+- Accuracy:The information is accurately presented
 
 ### 2. Coherence and Cohesion
 This criterion evaluates how well your ideas are organized and how logically information flows between sentences and paragraphs.
