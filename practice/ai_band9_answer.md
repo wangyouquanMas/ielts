@@ -1,0 +1,11 @@
+# Band 9 Sample Answer - Technology Adoption Graph
+
+The line graph illustrates the penetration of five different technological devices in American households over a five-year period from 1995 to 1999. Overall, there was a clear upward trend in the adoption of all technologies by the end of the period, although they followed different patterns of growth and started from significantly different baseline levels.
+
+Throughout the entire period, washing machines maintained the highest household penetration rate, increasing steadily from approximately 60% in 1995 to 80% by 1999. Computers showed consistent growth as well, rising from 40% to around 70% of households over the five years, reflecting the growing importance of digital technology in American homes during the late 1990s.
+
+The most dramatic change was observed in telephone ownership, which initially declined slightly from 20% in 1995 to approximately 18% in 1996, before experiencing a remarkable surge to 75% by 1999, eventually surpassing computer ownership in the final year. Internet access followed a steady upward trajectory, beginning at just 10% of households in 1995 and reaching 50% by 1999, demonstrating the rapid integration of online connectivity into American domestic life.
+
+DVD players exhibited a unique pattern, being the only technology to show an initial decline from 25% in 1995 to 15% in 1996, before gradually recovering to reach 40% by 1999. Interestingly, while DVD players had greater household penetration than internet access in 1995, this situation had reversed by mid-1997, illustrating the shifting priorities in consumer technology adoption. By the end of the period, the substantial gap that had existed between the most common and least common technologies had narrowed considerably, suggesting an increasingly technology-integrated society.
+
+In conclusion, the data reveals not only the growing technological sophistication of American households during this period but also the varying rates at which different technologies were embraced, with newer digital and communication technologies showing particularly rapid growth.

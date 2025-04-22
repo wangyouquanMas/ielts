@@ -1,0 +1,1 @@
+- Poor paragraphing with no clear organizational strategy (only two paragraphs)

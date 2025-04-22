@@ -1,0 +1,2 @@
+- Information presented as separate statements rather than a cohesive analysis
+- Abrupt transitions between sentences
