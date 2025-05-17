@@ -1,0 +1,3 @@
+First of all, what is the menaing of helius ？ It is a data indexer. It gets data onchain , stores it locally and provides services to external clients. 
+How to use it? It provides two ways : Websocket and HTTP.   In our project, we first use websocket to subscribe the latest slot and get the block data. 
+What are the benefits and limitations. For benefits, it provides the up-time and high speed service ,compared to the official Solana service.However, the serverice is quiet expensive.  Next I will show you how to get the latest block. 
